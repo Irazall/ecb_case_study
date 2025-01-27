@@ -1,6 +1,6 @@
 # Overview 
 
-This repository contains a Quarto report that I had to create for a job application at the ECB in 2025. The report can be found in `output\ecb_case_study.pdf` while the Quarto file is in `scripts\ecb_case_study.qmd`. The data stems from the Emissions Database for Global Atmospheric Research (EDGAR) report on the global greenhouse gas (GHG) emissions disseminated by the the European Commission. The data is published here: https://edgar.jrc.ec.europa.eu/report_2024?vis=ghgpop#data_download (last retrieved 2025-01-27).
+This repository contains a Quarto report that I had to create for a job application at the ECB in 2025. The report can be found in `reports\ecb_case_study.pdf` while the Quarto file is in `reports\ecb_case_study.qmd`. The data stems from the Emissions Database for Global Atmospheric Research (EDGAR) report on the global greenhouse gas (GHG) emissions disseminated by the the European Commission. The data is published here: https://edgar.jrc.ec.europa.eu/report_2024?vis=ghgpop#data_download (last retrieved 2025-01-27).
 
 # Task description
 
